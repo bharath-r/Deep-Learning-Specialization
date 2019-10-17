@@ -6,7 +6,7 @@ Assignment Notebooks from Deep Learning Specialization offered by deeplearning.a
 
 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 
-3. Structuring Machine Learning Projects (To be added)
+3. Structuring Machine Learning Projects (No Programming Assignments)
 
 4. Convolutional Neural Networks (To be added)
 
