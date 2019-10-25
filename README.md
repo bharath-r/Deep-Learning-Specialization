@@ -10,4 +10,4 @@ Assignment Notebooks from Deep Learning Specialization offered by deeplearning.a
 
 4. Convolutional Neural Networks (To be added)
 
-5. Sequence Models (To be added)
+5. Sequence Models
